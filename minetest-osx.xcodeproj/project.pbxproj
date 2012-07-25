@@ -141,7 +141,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		E9C4FB9A15C01AD700FC837F /* minetest-osx.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "minetest-osx.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9C4FB9A15C01AD700FC837F /* minetest-c55.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "minetest-c55.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9C4FB9E15C01AD700FC837F /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		E9C4FBA115C01AD700FC837F /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		E9C4FBA215C01AD700FC837F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
@@ -1340,9 +1340,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E9C4FB9915C01AD700FC837F /* minetest-osx */ = {
+		E9C4FB9915C01AD700FC837F /* minetest-c55 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E9C4FBB815C01AD800FC837F /* Build configuration list for PBXNativeTarget "minetest-osx" */;
+			buildConfigurationList = E9C4FBB815C01AD800FC837F /* Build configuration list for PBXNativeTarget "minetest-c55" */;
 			buildPhases = (
 				E9C4FB9615C01AD700FC837F /* Sources */,
 				E9C4FB9715C01AD700FC837F /* Frameworks */,
@@ -1355,7 +1355,7 @@
 			);
 			dependencies = (
 			);
-			name = "minetest-osx";
+			name = "minetest-c55";
 			productName = "minetest-osx";
 			productReference = E9C4FB9A15C01AD700FC837F /* minetest-osx.app */;
 			productType = "com.apple.product-type.application";
@@ -1380,7 +1380,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E9C4FB9915C01AD700FC837F /* minetest-osx */,
+				E9C4FB9915C01AD700FC837F /* minetest-c55 */,
 			);
 		};
 /* End PBXProject section */
@@ -1645,7 +1645,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E9C4FBB815C01AD800FC837F /* Build configuration list for PBXNativeTarget "minetest-osx" */ = {
+		E9C4FBB815C01AD800FC837F /* Build configuration list for PBXNativeTarget "minetest-c55" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E9C4FBB915C01AD800FC837F /* Debug */,

@@ -14,8 +14,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E9C4FB9915C01AD700FC837F"
-               BuildableName = "minetest-osx.app"
-               BlueprintName = "minetest-osx"
+               BuildableName = "minetest-c55.app"
+               BlueprintName = "minetest-c55"
                ReferencedContainer = "container:minetest-osx.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,8 +32,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E9C4FB9915C01AD700FC837F"
-            BuildableName = "minetest-osx.app"
-            BlueprintName = "minetest-osx"
+            BuildableName = "minetest-c55.app"
+            BlueprintName = "minetest-c55"
             ReferencedContainer = "container:minetest-osx.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -51,8 +51,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E9C4FB9915C01AD700FC837F"
-            BuildableName = "minetest-osx.app"
-            BlueprintName = "minetest-osx"
+            BuildableName = "minetest-c55.app"
+            BlueprintName = "minetest-c55"
             ReferencedContainer = "container:minetest-osx.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -69,8 +69,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E9C4FB9915C01AD700FC837F"
-            BuildableName = "minetest-osx.app"
-            BlueprintName = "minetest-osx"
+            BuildableName = "minetest-c55.app"
+            BlueprintName = "minetest-c55"
             ReferencedContainer = "container:minetest-osx.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
