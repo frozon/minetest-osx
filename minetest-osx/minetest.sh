@@ -8,4 +8,4 @@
 
 tmp="`pwd`/$0"
 bundle=`dirname "$tmp"`
-exec "$bundle/minetest-osx"
+exec "$bundle/minetest-c55"
