@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E90D611615C260FC006D602B /* rollback_interface.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E90D611215C260FC006D602B /* rollback_interface.cpp */; };
+		E90D611715C260FC006D602B /* rollback.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E90D611415C260FC006D602B /* rollback.cpp */; };
 		E9AE674315C0390700F641DD /* minetest.icns in Resources */ = {isa = PBXBuildFile; fileRef = E9AE674215C0390700F641DD /* minetest.icns */; };
 		E9C4FB9F15C01AD700FC837F /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9C4FB9E15C01AD700FC837F /* Cocoa.framework */; };
 		E9C4FBA915C01AD700FC837F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E9C4FBA715C01AD700FC837F /* InfoPlist.strings */; };
@@ -142,6 +144,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E90D611215C260FC006D602B /* rollback_interface.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rollback_interface.cpp; sourceTree = "<group>"; };
+		E90D611315C260FC006D602B /* rollback_interface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rollback_interface.h; sourceTree = "<group>"; };
+		E90D611415C260FC006D602B /* rollback.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rollback.cpp; sourceTree = "<group>"; };
+		E90D611515C260FC006D602B /* rollback.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rollback.h; sourceTree = "<group>"; };
 		E9AE674215C0390700F641DD /* minetest.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = minetest.icns; sourceTree = SOURCE_ROOT; };
 		E9C4FB9A15C01AD700FC837F /* minetest-c55.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "minetest-c55.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9C4FB9E15C01AD700FC837F /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
@@ -674,6 +680,10 @@
 		E9C4FBBB15C01B1300FC837F /* src */ = {
 			isa = PBXGroup;
 			children = (
+				E90D611215C260FC006D602B /* rollback_interface.cpp */,
+				E90D611315C260FC006D602B /* rollback_interface.h */,
+				E90D611415C260FC006D602B /* rollback.cpp */,
+				E90D611515C260FC006D602B /* rollback.h */,
 				E9EFCD2915C02DA200AEB10F /* guiFormSpecMenu.cpp */,
 				E9EFCD2A15C02DA200AEB10F /* guiFormSpecMenu.h */,
 				E9C4FBBC15C01B1300FC837F /* activeobject.h */,
@@ -1509,6 +1519,8 @@
 				E9C4FD5915C01B1400FC837F /* voxel.cpp in Sources */,
 				E9C4FD5A15C01B1400FC837F /* voxelalgorithms.cpp in Sources */,
 				E9EFCD2B15C02DA200AEB10F /* guiFormSpecMenu.cpp in Sources */,
+				E90D611615C260FC006D602B /* rollback_interface.cpp in Sources */,
+				E90D611715C260FC006D602B /* rollback.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
